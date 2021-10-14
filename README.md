@@ -12,4 +12,3 @@ In my assortment of personal projects, I am highly proficient in the usage of HT
 ## Authors
 AcedYu
 - [Link to Github](https://github.com/AcedYu)
-- [Link to LinkedIn](https://www.linkedin.com/in/alex-yu-3712811b9/)
