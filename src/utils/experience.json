@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Cerebral",
+    "title": "React Developer",
+    "date": "JAN 2020 - PRESENT",
+    "location": "San Francisco, CA",
+    "tasks": [
+      "Designed, Developed, and tested the web application using cutting-edge web development tech- nologies like ReactJS, Redux, React Router, HTML5, CSS3, Jest, Enzyme, Bootstrap, etc.",
+      "Collaborated with Product, Engineering and UX teams to explore new feature ideas, workflows and disambiguated requirements to create the appropriate interfaces.",
+      "Implemented responsive design and ensured cross-browser compatibility using CSS3 features such as media query.",
+      "Used Redux to store data globally and for easy retrieval of data to any component in the web application.",
+      "Utilized the concepts of functional programming and OOP to develop UI components that could be reused across the SPA.",
+      "Implemented Middleware configurations and Redux Promises in the SPA to fetch data from the back end and to consume RESTful services.",
+      "Fulfilled responsive web development, including building grids by using Bootstrap components such as dropdown menus, navigation bar, alerts, labels, etc.",
+      "Followed Test Driven Development (TDD) for component-based and unit testing with Jest and Enzyme, and end to end testing using Cypress.",
+      "Used versioning tools such as Git to collaborate with peer engineers.",
+      "Actively participated in Agile and Scrum workflow."
+    ]
+  },
+  {
+    "company": "Varo Money",
+    "title": "Front-End Developer",
+    "date": "DEC 2017 - NOV 2019",
+    "location": "San Francisco, CA",
+    "tasks": [
+      "Designed, implemented, modified and tested engaging, consumer-facing web experiences using modern JavaScript technology stack.",
+      "Translated system requirements into the design and development of customized systems in an agile environment.",
+      "Delivered scalable production-ready code for new and existing features of the web application using ReactJS, HTML5, CSS3, JavaScript, React Router, Redux, Ajax, etc.",
+      "Designed CSS templates that could be reused on the web pages across the website using CSS concepts such as background, margin, padding, table, etc.",
+      "Worked on popular React components such as state, specs, props, and events to achieve interactive web experience.",
+      "Used React Router to enhance user experience in the web application using browser history features.",
+      "Coped with states within the web application using Redux and enabled certain parts of the states to persist through Redux Persist.",
+      "Implemented modules in NodeJS to integrate with requirements for web designs.",
+      "Built and broadly tested RESTful APIs by using Express and NodeJS.",
+      "Ran diagnostic tests, repaired defects, and provided technical support using Jest and Enzyme.",
+      "Used Git for version control throughout the development process.",
+      "Participated in the Agile process, monthly Sprints, daily Scrums, and A/B testing to propel the development of the project."
+    ]
+  },
+  {
+    "company": "Snapdocs",
+    "title": "UI Developer",
+    "date": "SEP 2015 - OCT 2017",
+    "location": "San Francisco, CA",
+    "tasks": [
+      "Responsible for developing the web application that matches requirements of the client using HTML5, CSS3, JavaScript, jQuery, etc.",
+      "Effectively coordinated with peer engineers throughout the development process and ensured that all requirements were satisfied and documented properly.",
+      "Extensively involved in design discussion and user-experience sessions to provide input on the layout and UX.",
+      "Developed functional HTML5 and CSS3 pages from the mock-ups and involved in UI review with the UI architect and Business Units.",
+      "Developed GUI using JavaScript, HTML5, AJAX, CSS3 and jQuery in the ongoing projects.",
+      "Distilled hand-written HTML, CSS 2/3, JavaScript, JQuery, Ajax, XML, and JSON code from the mock-ups.",
+      "Developed the user authentication and order processing modules for customer facing components.",
+      "Participated in requirements definition and story carding."
+    ]
+  }
+]
