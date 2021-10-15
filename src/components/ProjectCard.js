@@ -6,10 +6,11 @@ const style = {
     width: "auto",
     position: "absolute",
     bottom: "0px",
-    left: "0px"
+    left: "0px",
+    fontSize: "160%"
   },
   logo: {
-    height: "auto",
+    height: "15%",
     width: "auto",
     position: "absolute",
     bottom: "0px",
@@ -19,9 +20,9 @@ const style = {
 
 const ProjectCard = ({ title, link, image, logo }) => {
   return (
-    <div className="col-md-12 mb-3">
+    <div className="col mt-4">
       <a href={link} target="_blank" rel="noreferrer">
-        <div className="card bg-dark">
+        <div className="card bg-dark h-100">
           <img src={image} className="card-img" alt="Could not load properly" />
           <div className="card-img-overlay">
             <h1

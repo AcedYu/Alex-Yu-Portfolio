@@ -18,18 +18,6 @@
     "logo": "./img/mernlogo.png"
   },
   {
-    "title": "Clicky Game",
-    "link": "https://github.com/AcedYu/18-clicky-game",
-    "image": "./img/clickygame.png",
-    "logo": "./img/reactlogo.png"
-  },
-  {
-    "title": "Employee Directory",
-    "link": "https://github.com/AcedYu/19-employee-directory",
-    "image": "./img/employeedirectory.png",
-    "logo": "./img/reactlogo.png"
-  },
-  {
     "title": "Tech Blog",
     "link": "https://github.com/AcedYu/14-model-view-controller-tech-blog",
     "image": "./img/techblog.png",
@@ -42,21 +30,9 @@
     "logo": "./img/jquerylogo.png"
   },
   {
-    "title": "Employee Management System",
-    "link": "https://github.com/AcedYu/12-employee-management-system",
-    "image": "./img/teamgenerator.png",
-    "logo": "./img/nodejslogo.png"
-  },
-  {
     "title": "Weather Dashboard",
     "link": "https://github.com/AcedYu/6-weather-dashboard",
     "image": "./img/weatherdash.png",
     "logo": "./img/jquerylogo.png"
-  },
-  {
-    "title": "Code Quiz",
-    "link": "https://github.com/AcedYu/4-code-quiz",
-    "image": "./img/codequiz.png",
-    "logo": "./img/javascriptlogo.png"
   }
 ]
