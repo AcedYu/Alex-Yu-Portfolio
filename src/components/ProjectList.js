@@ -4,7 +4,7 @@ import projects from "../utils/projects.json";
 
 const ProjectList = () => {
   return (
-    <div className="row row-cols-3">
+    <div className="row row-cols-2">
       {projects.map((project) => (
         <ProjectCard
           title={project.title}

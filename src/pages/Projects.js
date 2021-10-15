@@ -3,7 +3,7 @@ import ProjectList from "../components/ProjectList.js";
 
 const Projects = () => {
   return (
-    <div className="container-fluid">
+    <div className="container">
       <h1 className="text-white text-center">Highlighted Projects</h1>
       <ProjectList />
     </div>

@@ -1,11 +1,5 @@
 [
   {
-    "title": "Social Spenders",
-    "link": "https://github.com/AcedYu/Social-Spenders",
-    "image": "./img/socialspenders.png",
-    "logo": "./img/reactnodesqllogo.png"
-  },
-  {
     "title": "Card Game",
     "link": "https://github.com/AcedYu/Game-of-Bones",
     "image": "./img/cardgame.png",
@@ -18,21 +12,9 @@
     "logo": "./img/mernlogo.png"
   },
   {
-    "title": "Tech Blog",
-    "link": "https://github.com/AcedYu/14-model-view-controller-tech-blog",
-    "image": "./img/techblog.png",
-    "logo": "./img/handlebarslogo.png"
-  },
-  {
     "title": "Gamehub",
     "link": "https://github.com/AcedYu/gamehub",
     "image": "./img/gamehub.png",
-    "logo": "./img/jquerylogo.png"
-  },
-  {
-    "title": "Weather Dashboard",
-    "link": "https://github.com/AcedYu/6-weather-dashboard",
-    "image": "./img/weatherdash.png",
     "logo": "./img/jquerylogo.png"
   }
 ]
