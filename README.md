@@ -8,7 +8,3 @@ In my assortment of personal projects, I am highly proficient in the usage of HT
 ## My Portfolio
 
 * [View Portfolio](https://acedyu.github.io/Alex-Yu-Portfolio)
-
-## Authors
-AcedYu
-- [Link to Github](https://github.com/AcedYu)
