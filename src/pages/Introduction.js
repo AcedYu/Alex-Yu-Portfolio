@@ -24,7 +24,7 @@ const Introduction = () => {
           </div>
           <div className="col-lg-6">
             <h1 className="display-5 fw-bold lh-1 mb-3">
-              Hello, I'm Alex Yu: <br /> Software Developer
+              Hello, I'm Alexander Yu: <br /> Full Stack Developer
             </h1>
             <div className="h-100">
               <Introcarousel />

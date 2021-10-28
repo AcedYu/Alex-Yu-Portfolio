@@ -7,10 +7,10 @@ const style = {
     position: "absolute",
     bottom: "0px",
     left: "0px",
-    fontSize: "160%"
+    fontSize: "180%"
   },
   logo: {
-    height: "15%",
+    height: "20%",
     width: "auto",
     position: "absolute",
     bottom: "0px",

@@ -1,5 +1,5 @@
 import React from "react";
-import { Card } from "react-bootstrap";
+import { Card, Image } from "react-bootstrap";
 
 const style = {
   card: {
@@ -9,11 +9,12 @@ const style = {
   }
 };
 
-const ExpCard = ({ company, title, date, location, tasks }) => {
+const ExpCard = ({ company, logo, title, date, location, tasks }) => {
   return (
     <Card className="text-white" style={style.card}>
       <Card.Title className="text-info">
         <h1>{company}</h1>
+        <Image src={logo} fluid />
       </Card.Title>
       <h3>{title}</h3>
       <h6>{date}</h6>

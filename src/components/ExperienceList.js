@@ -8,6 +8,7 @@ const ExpereinceList = () => {
       {experience.map((job) => (
         <ExpCard
           company={job.company}
+          logo={job.logo}
           title={job.title}
           date={job.date}
           location={job.location}
