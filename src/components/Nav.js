@@ -28,7 +28,7 @@ const Nav = () => {
         <li className="nav-item">
           <a
             className="nav-link"
-            href="https://docs.google.com/document/d/1WKlCaYbEr5HSC2ULHjmuzwwQf8yDj3Wn82GFH6aniKI/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1w5USgOV1Dn_Ee3bJAoTdb9m0wxQqy3GTsN1r6CGnpJw/edit?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
