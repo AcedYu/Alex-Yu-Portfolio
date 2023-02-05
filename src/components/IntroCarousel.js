@@ -13,8 +13,9 @@ const Introcarousel = () => {
             </Card.ImgOverlay>
           </Card>
           <img
-            src="https://ucarecdn.com/36319ffa-09d6-4469-8b7b-cf74d96858a3/introbackground.png"
+            src="https://ucarecdn.com/e9e70844-d22a-401c-8dde-ed1567d86687/carouselbackground.png"
             alt="slide"
+            className="d-block w-100"
             height="170"
           />
         </Carousel.Item>
