@@ -2,7 +2,7 @@ import React from "react";
 
 const style = {
   div: {
-    height: "72px"
+    height: "10vh"
   }
 }
 

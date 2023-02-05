@@ -2,7 +2,7 @@ import React from "react";
 
 const style = {
   div: {
-    height: "62px"
+    height: "8vh"
   }
 }
 

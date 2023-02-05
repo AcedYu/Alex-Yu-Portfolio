@@ -4,21 +4,22 @@ import Introcarousel from "../components/IntroCarousel.js";
 
 const style = {
   hero: {
-    background: `url("./img/background.png")`
+    background: `url("./img/background.png")`,
+    height: "82vh"
   }
 };
 
 const Introduction = () => {
   return (
-    <div className="text-white" style={style.hero}>
+    <div className="container-fluid text-white" style={style.hero}>
       <div className="container col-xxl-8 px-4 py-5">
         <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
           <div className="col-10 col-sm-8 col-lg-6">
             <img
-              src="./img/profile.png"
+              src="./img/profile_new.png"
               className="d-block mx-lg-auto img-fluid"
               alt="Failed to load"
-              width="448"
+              width="340"
               loading="lazy"
             />
           </div>
